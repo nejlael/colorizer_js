@@ -1,0 +1,14 @@
+.color_1{
+    color: red;
+}
+.color_2{
+    color: green;
+}
+.color_3{
+    color: blue;
+}
+
+#colorized{
+    font-size: 2em;
+    text-align: center;
+}
